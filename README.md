@@ -20,8 +20,3 @@ Se a média for maior ou igual a 6, o aluno é considerado aprovado. Se a média
 
 - Java Development Kit (JDK) instalado no sistema.
 
-## Como Executar
-
-1. Abra um terminal.
-2. Navegue até o diretório onde o arquivo ProgramaEscolar.java está localizado.
-3. Compile o código-fonte com o seguinte comando:
